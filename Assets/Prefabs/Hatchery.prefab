@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &283594692531322750
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -1208315889747530879, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: cell_type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812796251519745689, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812796251519745689, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812796251519745689, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812796251519745689, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189357661574538275, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_Name
+      value: Hatchery
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930426441919779359, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d681bad84c1cf9a4e8baaab9486e8bb0, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecc9f287b6e996b4b99f4fbe452216be, type: 3}
